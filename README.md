@@ -38,7 +38,8 @@ B. Based on EDA 2, we see some words being used very frequently across the datas
 [i] Ecosystem reviews - Ecosystem, Product, Sound, Quality 
 [ii] Other reviews - *Use, Quality, Easy, Sound *
 
-C. The heatmap is a rich data source. Some key conclusions from it include: 
+C. The heatmap is a rich data source. The HTML file in the repository allows the user to interact with the graph and select which level of data they want to explore. Please download and open in Chrome to use the HTML file.
+Some key conclusions from it include: 
 [a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) 
 [b] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. 
 [c] There is a non-trivial downward movement of the mention of quality in the overall heatmap as time progresses. 
