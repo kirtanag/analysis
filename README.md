@@ -41,7 +41,6 @@ B. Based on EDA 2, we see some words being used very frequently across the datas
 C. The heatmap is a rich data source, and can be interacted with here - 
 ### https://kirtanag.github.io/data_analysis/AirPodsInteractiveHeatmap.html
 
-**Please download and open in Chrome to use the HTML file.** <br>
 Some key conclusions from it include: 
 [a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) 
 [b] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. 
