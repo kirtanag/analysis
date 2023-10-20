@@ -42,7 +42,7 @@ C. The heatmap is a rich data source, and can be interacted with here -
 ### https://kirtanag.github.io/data_analysis/AirPodsInteractiveHeatmap.html
 
 Some key conclusions from it include: 
-[a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) 
-[b] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. 
-[c] There is a non-trivial downward movement of the mention of quality in the overall heatmap as time progresses. 
-[d] More people talk about how the AirPods work more than 6 months into using it
+[a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) <br>
+[b] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. <br>
+[c] There is a non-trivial downward movement of the mention of quality in the overall heatmap as time progresses. <br>
+[d] More people talk about how the AirPods work more than 6 months into using it. <br>
