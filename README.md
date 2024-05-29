@@ -1,6 +1,6 @@
 # Repository - Analysis
 
-### This repository contains code analysing a limited set of reviews left by customers for Apple AirPods to glean some data relating to consumer preferences.
+### This repository contains code analysing a limited set of reviews left by customers for Apple AirPods to glean some data relating to consumer preferences. The objective is to identify whether members of the Apple ecosystem are more likely to leave a positive review than non-members.
 
 ### INTRODUCTION-
 Insights into consumers' opinions about a product is vital in product improvement. In this limited experiment, I aim to analyse a small dataset of reviews left by Apple AirPods users. The data is segemented based on how long the customer has used the product. <br> 
