@@ -26,14 +26,14 @@ The scraped data looks like this- <br>
 
 I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods<br>
 The analysis revealed that the average rating left by members of the Apple ecosystem was 2.5% lower than that of non-ecosystem members.
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/RatingDistribution.png" alt="alt text" width="500"/>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/RatingDistribution.png" alt="alt text" width="800"/>
 
 | User Type | Average User Rating |   |
 |---|---|---|
 | Ecosystem Member | 4.71 out of 5 | ☹ |
 | Other | 4.83 out of 5 | ☺ |
 
-#### VERDICT FOR HYPOTHESIS: Does not hold true!
+<bold>VERDICT FOR HYPOTHESIS: Does not hold true! </bold>
 <br>
 #### Exploratory Data Analysis 2 - Word Count Plot
 
@@ -54,6 +54,19 @@ There are 4 buckets of product usage -
 3. More than 6 months
 4. Unknown (Data Not Available)
 
+Common words were ignored, and 25 other highly prevalent keywords were selected.
+
+The two data aspects which were looked at together were-
+1. Product age at the time of review (Bucketed)
+2. Keyword
+
+Results looked like this-
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapEcosystemReviews.png" alt="alt text" width="800"/> <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOtherReviews.png" alt="alt text" width="800"/> <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOverallReviews.png" alt="alt text" width="800"/> <br>
+
+(Note: While the heatmap below is static, it can be interacted with here: 
+### https://kirtanag.github.io/data_analysis/AirPodsInteractiveHeatmap.html
 
 ### CONCLUSION-
 
@@ -68,6 +81,6 @@ C. The heatmap is a rich data source, and can be interacted with here -
 
 Some key conclusions from it include: <br>
 [a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) <br>
-[b] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. <br>
+[b] More people talk about how the AirPods work more than 6 months into using it. <br>
 [c] There is a non-trivial downward movement of the mention of quality in the overall heatmap as time progresses. <br>
-[d] More people talk about how the AirPods work more than 6 months into using it. <br>
+[d] Unsurprisingly, members of the ecosystem talk about sound quality more than other reviewers. <br>
