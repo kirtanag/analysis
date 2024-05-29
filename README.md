@@ -30,7 +30,7 @@ The analysis revealed that the average rating left by members of the Apple ecosy
 |---|---|---|
 | Ecosystem Member | 4.71 out of 5 | ☹ |
 | Other | 4.83 out of 5 | ☺ |
-
+##### VERDICT FOR HYPOTHESIS: Does not hold true!
 <br>
 
 #### Exploratory Data Analysis 2 - Word Count Plot
