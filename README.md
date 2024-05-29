@@ -26,7 +26,7 @@ The scraped data looks like this- <br>
 
 I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods<br>
 The analysis revealed that the average rating left by members of the Apple ecosystem was 2.5% lower than that of non-ecosystem members.
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/Rating-%20Ecosystem%20V%20Other.png" alt="alt text" width="1000"/>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/RatingDistribution.png" alt="alt text" width="500"/>
 
 | User Type | Average User Rating |   |
 |---|---|---|
@@ -35,11 +35,16 @@ The analysis revealed that the average rating left by members of the Apple ecosy
 
 #### VERDICT FOR HYPOTHESIS: Does not hold true!
 <br>
-
 #### Exploratory Data Analysis 2 - Word Count Plot
 
 I wanted to quickly visualise the most common words used within the 2 datasets, and hence, have created Word Count Plots where the size of the word shows its prevalence
 
+1. Ecosystem Reviews- <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/WordCountPlotEcosystemReviews.png" alt="alt text" width="800"/>
+<br>
+2. Other Reviews- <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/WordCountPlotOtherReviews.png" alt="alt text" width="800"/>
+<br>
 #### Exploratory Data Analysis 3 - Heatmap of common words
 
 To get a more granular look on what members of the ecosystem versus others talk about relating to the Apple AirPods based on how long they've used the product
