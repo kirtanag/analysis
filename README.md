@@ -28,8 +28,8 @@ I wanted to explore whether members of the Apple ecosystem would be more likely 
 The analysis revealed that the average rating left by members of the Apple ecosystem was 2.5% lower than that of non-ecosystem members.
 | User Type | Average User Rating |
 |---|---|
-| Ecosystem Member | 4.71 out of 5 |
-| Other | 4.83 out of 5 |
+| Ecosystem Member | 4.71 out of 5 ☹ |
+| Other | 4.83 out of 5 ☺ |
 
 <br>
 
