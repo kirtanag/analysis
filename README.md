@@ -1,6 +1,7 @@
 # Repository - Analysis
 
 ### This repository contains code analysing a limited set of reviews left by customers for Apple AirPods to glean some data relating to consumer preferences. <br>
+![alt text](https://images.unsplash.com/photo-1713492527322-471061e52516?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGUlMjBlY29zeXN0ZW18ZW58MHx8MHx8fDA%3D)
 ### Objective- To analyse topic prevalence within the reviews and identify whether members of the Apple ecosystem are more likely to leave a positive review than non-members.
 
 ### INTRODUCTION-
