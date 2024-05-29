@@ -61,9 +61,9 @@ The two data aspects which were looked at together were-
 2. Keyword
 
 Results looked like this-
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapEcosystemReviews.png" alt="alt text" width="800"/> <br>
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOtherReviews.png" alt="alt text" width="800"/> <br>
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOverallReviews.png" alt="alt text" width="800"/> <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapEcosystemReviews.png" alt="alt text"/> <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOtherReviews.png" alt="alt text"/> <br>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOverallReviews.png" alt="alt text"/> <br>
 
 (Note: While the heatmap below is static, it can be interacted with here: 
 ### https://kirtanag.github.io/data_analysis/AirPodsInteractiveHeatmap.html
@@ -75,9 +75,6 @@ A. Based on EDA 1, we know that members of the Apple ecosystem are around 2.5% m
 B. Based on EDA 2, we see some words being used very frequently across the datasets. They are- <br>
 [i] Ecosystem reviews - **Ecosystem, Product, Sound, Quality** <br> 
 [ii] Other reviews - **Use, Quality, Easy, Sound** <br>
-
-C. The heatmap is a rich data source, and can be interacted with here - 
-### https://kirtanag.github.io/data_analysis/AirPodsInteractiveHeatmap.html
 
 Some key conclusions from it include: <br>
 [a] Overall, a lot of users talk about the product's sound quality, as well as phone (presumably about connecting to their phone) <br>
