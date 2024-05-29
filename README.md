@@ -21,7 +21,7 @@ I will pick out some key topics mentioned in the reviews, and create a heatmap w
 I also test a small hypothesis that members of the Apple ecosystem are more likely to say positive things about the AirPods. **Will this hold true?** <br>
 #### Data structure - <br>
 The scraped data looks like this- <br>
-<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/Data%20structure.png" alt="alt text" width="300"/>
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/Data%20structure.png" alt="alt text" width="1000"/>
 #### Exploratory Data Analysis 1 - Average Ratings
 
 I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods
