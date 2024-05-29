@@ -24,7 +24,14 @@ The scraped data looks like this- <br>
 <img src="https://github.com/kirtanag/analysis_apple/blob/main/images/Data%20structure.png" alt="alt text" width="1000"/>
 #### Exploratory Data Analysis 1 - Average Ratings
 
-I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods
+I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods<br>
+The analysis revealed that the average rating left by members of the Apple ecosystem was 2.5% lower than that of non-ecosystem members.
+| User Type | Average User Rating |
+|---|---|
+| Ecosystem Member | 4.71 out of 5 |
+| Other | 4.83 out of 5 |
+
+<br>
 
 #### Exploratory Data Analysis 2 - Word Count Plot
 
