@@ -26,11 +26,14 @@ The scraped data looks like this- <br>
 
 I wanted to explore whether members of the Apple ecosystem would be more likely to be critical or supportive of Apple AirPods<br>
 The analysis revealed that the average rating left by members of the Apple ecosystem was 2.5% lower than that of non-ecosystem members.
+<img src="https://github.com/kirtanag/analysis_apple/blob/main/images/Rating-%20Ecosystem%20V%20Other.png" alt="alt text" width="1000"/>
+
 | User Type | Average User Rating |   |
 |---|---|---|
 | Ecosystem Member | 4.71 out of 5 | ☹ |
 | Other | 4.83 out of 5 | ☺ |
-##### VERDICT FOR HYPOTHESIS: Does not hold true!
+
+#### VERDICT FOR HYPOTHESIS: Does not hold true!
 <br>
 
 #### Exploratory Data Analysis 2 - Word Count Plot
