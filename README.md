@@ -66,7 +66,7 @@ Results looked like this-
 <img src="https://github.com/kirtanag/analysis_apple/blob/main/images/AirPodsStaticHeatmapOverallReviews.png" alt="alt text"/> <br>
 
 (Note: While the heatmap below is static, it can be interacted with here: 
-### https://sane-crab.static.domains/airpodsinteractiveheatmap
+### https://kirtanag.github.io/analysis_apple/AirPodsInteractiveHeatmap.html
 
 ### CONCLUSION-
 
